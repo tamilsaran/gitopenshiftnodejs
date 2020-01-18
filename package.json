@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://gitlab.zippyops.com/root/openshiftnodejs.git"
+    "url": "git+https://github.com/tamilsaran/gitopenshiftnodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/huseyinbabal/kubernetes-node-example/issues"
+    "url": "https://github.com/tamilsaran/gitopenshiftnodejs/issues"
   },
-  "homepage": "https://github.com/huseyinbabal/kubernetes-node-example#readme"
+  "homepage": "https://github.com/tamilsaran/gitopenshiftnodejs#readme"
 }
