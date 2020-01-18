@@ -1,0 +1,19 @@
+{
+  "name": "gitopenshiftnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex.js",
+  "scripts": {
+    "start": "node ex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://gitlab.zippyops.com/root/openshiftnodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huseyinbabal/kubernetes-node-example/issues"
+  },
+  "homepage": "https://github.com/huseyinbabal/kubernetes-node-example#readme"
+}
